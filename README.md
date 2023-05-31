@@ -1,6 +1,8 @@
 # Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Всем привет. Тут я не пыталься делать все идеально. Так как понимаю что вы будете смотреть на понтманте DataGrid'а. 
+И думаю мой код в App.tsx даст вам понять какой у меня уровень с DataGrid.
+Если все же нужно писать чистый и декомпозированный код, то я это могу и вы можете в этом не сомневаться.) 
 
 ## Available Scripts
 
